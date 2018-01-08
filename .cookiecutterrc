@@ -22,5 +22,5 @@ default_context:
     project_name:              'django-celery-results'
     project_short_description: 'Celery result backends using Django'
     project_slug:              'django-celery-results'
-    version:                   '1.0.0'
-    year:                      '2016'
+    version:                   '1.1.0'
+    year:                      '2018'
